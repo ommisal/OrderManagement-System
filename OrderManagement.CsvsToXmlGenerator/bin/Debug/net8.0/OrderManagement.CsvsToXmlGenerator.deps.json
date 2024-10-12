@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrderManagement.CsvsToXmlGenerator/1.0.0": {
+        "dependencies": {
+          "OrderManagement.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "OrderManagement.CsvsToXmlGenerator.dll": {}
+        }
+      },
+      "OrderManagement.DataModels/1.0.0": {
+        "runtime": {
+          "OrderManagement.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderManagement.CsvsToXmlGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderManagement.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\bin\Debug\net8.0\OrderManagement.DataModels.deps.json
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\bin\Debug\net8.0\OrderManagement.DataModels.dll
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\bin\Debug\net8.0\OrderManagement.DataModels.pdb
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\OrderManagement.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\OrderManagement.DataModels.AssemblyInfoInputs.cache
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\OrderManagement.DataModels.AssemblyInfo.cs
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\OrderManagement.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\OrderManagement.DataModels.dll
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\refint\OrderManagement.DataModels.dll
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\OrderManagement.DataModels.pdb
+C:\Users\Om Misal\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net8.0\ref\OrderManagement.DataModels.dll
